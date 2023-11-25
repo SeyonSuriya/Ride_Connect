@@ -88,7 +88,7 @@ props.load(input);
         <div class="form">
             <div class="login">
                 <div class="login-header">
-                    <h3>DRIVE CARE CONNECT</h3>
+                    <h3>Ride Connect</h3>
                     <p>Please click the button to log in.</p>
                 </div>
             </div>
